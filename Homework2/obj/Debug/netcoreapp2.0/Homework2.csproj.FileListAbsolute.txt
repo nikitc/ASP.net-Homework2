@@ -1,0 +1,11 @@
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\bin\Debug\netcoreapp2.0\Homework2.deps.json
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\bin\Debug\netcoreapp2.0\Homework2.runtimeconfig.json
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\bin\Debug\netcoreapp2.0\Homework2.runtimeconfig.dev.json
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\bin\Debug\netcoreapp2.0\Homework2.dll
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\bin\Debug\netcoreapp2.0\Homework2.pdb
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\obj\Debug\netcoreapp2.0\Homework2.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\obj\Debug\netcoreapp2.0\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\obj\Debug\netcoreapp2.0\Homework2.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\obj\Debug\netcoreapp2.0\Homework2.AssemblyInfo.cs
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\obj\Debug\netcoreapp2.0\Homework2.dll
+C:\Users\Nikita\Documents\Visual Studio 2017\Projects\Homework2\Homework2\obj\Debug\netcoreapp2.0\Homework2.pdb
